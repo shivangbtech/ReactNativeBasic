@@ -1,9 +1,9 @@
 import React from 'react'
-import TestReactComponent from './react_component/TestReactComponent'
+import LifeCycleMethods from './react_component/LifeCycleMethods'
 import {render} from 'react-dom';
 
 
-render(<TestReactComponent/>, document.getElementById('app'))
+render(<LifeCycleMethods/>, document.getElementById('app'))
 
 
 /*

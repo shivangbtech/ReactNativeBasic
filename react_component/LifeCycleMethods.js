@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-export default class TestReactComponent extends React.Component {
+export default class LifeCycleMethods extends React.Component {
 
     constructor(){
        super();
